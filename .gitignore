@@ -1,0 +1,5 @@
+*.pyc
+build/
+dist/
+lit.egg-info/
+lit/effects/user
